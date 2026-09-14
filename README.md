@@ -1,244 +1,320 @@
-# 👋 Hi, I'm Rehan
+<div align="center">
 
-<h3 align="center">
-  Data Analytics & Data Science Enthusiast • Front-End Developer • Problem Solver
-</h3>
+# 👋 Hey, I'm Rehan
 
-<p align="center">
+### Data Analytics • Data Science • Front-End Development
+
+<p>
+  <b>BCA Student</b> • <b>Data Science Learner</b> • <b>Front-End Developer</b>
+</p>
+
+<p>
   <a href="https://rehan-rk.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge" alt="Portfolio">
-  </a>
-  <a href="https://github.com/Rehan947">
-    <img src="https://img.shields.io/badge/GitHub-Rehan947-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-6C63FF?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/rehan-pathan-">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Rehan947">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
----
-
-## 🚀 About Me
-
-I'm **Rehan**, a BCA student and aspiring **Data Analyst / Data Scientist** who enjoys turning data into meaningful insights and building practical digital solutions.
-
-I'm currently pursuing my **BCA at Silver Oak University, Ahmedabad** and building my technical foundation through hands-on learning, projects, and continuous practice.
-
-Alongside my Data Analytics & Data Science journey, I also have professional experience in **Front-End Development**, where I worked on responsive and production-ready web interfaces.
-
-I enjoy working on **real data, analysis, dashboards, and practical projects** that solve meaningful problems.
+</div>
 
 ---
 
-## 🎯 My Career Direction
+## 🧑‍💻 About Me
 
-             DATA
-               │
-               ▼
-        Data Collection
-               │
-               ▼
-        Data Cleaning
-               │
-               ▼
-          SQL / Excel
-               │
-               ▼
-       Data Visualization
-               │
-               ▼
-       Power BI / Tableau
-               │
-               ▼
-            Python
-               │
-               ▼
-      Machine Learning
-               │
-               ▼
-         Data Science
+I'm **Rehan**, a BCA student from Ahmedabad with a strong interest in **Data Analytics and Data Science**, backed by professional experience in **Front-End Development**.
 
-My goal is to continuously strengthen my skills and grow toward a professional career in:
+I enjoy working with **real-world data**, discovering patterns, creating meaningful analysis, and turning data into clear and useful dashboards.
 
-Data Analytics → Data Science → Machine Learning
+My Front-End Development experience has also taught me how to build responsive interfaces, focus on user experience, and turn ideas into working digital products.
 
-🧠 Technical Skills
-📊 Data Analytics & BI
-<p> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"> </p>
+> **Learn deeply → Build practically → Analyze intelligently → Keep improving.**
+
+---
+
+# 🎯 Career Direction
+
+I'm building my career toward becoming a strong professional in:
+
+### **Data Analytics → Data Science → Machine Learning**
+
+                         DATA
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+             ▼                           ▼
+        DATA ANALYSIS              PROGRAMMING
+             │                           │
+      ┌──────┼──────┐                 Python
+      │      │      │                    │
+    Excel   SQL   BI Tools          Data Handling
+             │      │                    │
+             │   Power BI               │
+             │   Tableau                │
+             │      │                   │
+             └──────┴──────────┬────────┘
+                                ▼
+                         MACHINE LEARNING
+                                │
+                                ▼
+                          DATA SCIENCE
+⚡ Technical Skills
+📊 Data Analytics & Business Intelligence
+<p> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"> </p>
 🐍 Programming & Data Science
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"> </p>
 🌐 Front-End Development
 <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> </p>
-🤖 Additional Skills
-<p> <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge" alt="Prompt Engineering"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </p>
+🧰 Tools & Additional Skills
+<p> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge" alt="Prompt Engineering"> </p>
 💼 Professional Experience
-Front-End Developer — Narjis Infotech
+Front-End Developer
+Narjis Infotech — Ahmedabad, Gujarat
 
-📍 Ahmedabad, Gujarat
-📅 January 2025 – March 2026
+January 2025 – March 2026
 
-During my professional experience as a Front-End Developer, I worked on building responsive and production-ready web interfaces.
+Worked as a Front-End Developer, building responsive and production-ready web interfaces.
 
 Key Highlights
-🖥️ Architected and deployed responsive web interfaces using modern HTML, CSS, and JavaScript
+🖥️ Architected and deployed responsive web interfaces using HTML, CSS & JavaScript
 📱 Developed mobile-first and cross-browser compatible interfaces
 🚀 Delivered 9+ production web projects independently
-🧩 Maintained clean and structured frontend code
-📈 Focused on user experience, responsiveness, and engagement
+🧩 Maintained clean, structured and maintainable frontend code
+📈 Focused on usability, responsiveness and user engagement
+Experience Highlights
 
-This experience helped me develop strong foundations in web development, problem solving, UI implementation, and project delivery.
+Responsive Development • UI Implementation • Cross-Browser Compatibility • Problem Solving • Project Delivery
 
 🎓 Education
 Bachelor of Computer Applications — BCA
 
 Silver Oak University, Ahmedabad
 
-🎓 Currently in Semester 5
-📊 Current CGPA: 8.18
-📚 Data Science & Analytics Learning
+📚 Currently pursuing Semester 5
+📊 CGPA: 8.18
+📚 Data Science Learning Journey
 
-I'm currently developing my Data Analytics and Data Science skills through structured learning and hands-on practice at IT Vedant.
+I'm currently pursuing structured Data Scientist training at IT Vedant, while strengthening my skills through classwork, practice and practical projects.
 
-My learning journey includes:
+My Learning Stack
 
-Excel
-  ↓
-SQL
-  ↓
-Power BI
-  ↓
-Tableau
-  ↓
-Python
-  ↓
-Machine Learning
-  ↓
-Data Science
+┌─────────────────────────────────────────────┐
+│              DATA FOUNDATION                │
+│                                             │
+│         Excel • SQL • Databases             │
+│                                             │
+├─────────────────────────────────────────────┤
+│          BUSINESS INTELLIGENCE              │
+│                                             │
+│         Power BI • Tableau                  │
+│                                             │
+├─────────────────────────────────────────────┤
+│              PROGRAMMING                    │
+│                                             │
+│              Python                         │
+│                                             │
+├─────────────────────────────────────────────┤
+│              ADVANCED PATH                  │
+│                                             │
+│       Machine Learning • Data Science       │
+└─────────────────────────────────────────────┘
+📊 How I Work With Data
 
-I believe the best way to learn data is by working with real datasets and building practical projects.
+I enjoy taking raw information and transforming it into useful insights.
 
-📊 What I Like Working On
+RAW DATA
+    │
+    ▼
+COLLECT
+    │
+    ▼
+CLEAN & ORGANIZE
+    │
+    ▼
+ANALYZE
+    │
+    ▼
+FIND PATTERNS
+    │
+    ▼
+VISUALIZE
+    │
+    ▼
+GENERATE INSIGHTS
+    │
+    ▼
+SUPPORT BETTER DECISIONS
 
-I particularly enjoy:
+This is why Excel, SQL, Power BI, Tableau and Python are an important part of my technical journey.
 
-📈 Data Analysis
-📊 Interactive Dashboards
-🗄️ SQL & Relational Databases
-📑 Excel-based Analysis
-🐍 Python Programming
-📉 Data Visualization
-🤖 Machine Learning
-🌐 Practical Web Applications
-🔍 Finding patterns and insights in data
-🏗️ My GitHub Journey
+🚀 Featured Work
 
-My GitHub is organized around two types of repositories:
+My GitHub is organized into two main areas:
 
 📚 Learning & Practice
 
-Repositories containing:
-
-Classwork
-Practice programs
-Exercises
-Learning experiments
-Course-related work
-
-These repositories document my learning journey and progress.
+Classwork, exercises, coding practice and learning experiments.
 
 🚀 Portfolio Projects
 
-Separate repositories are maintained for polished projects.
+Polished projects focused on practical implementation, analysis, dashboards and real-world problem solving.
 
-These repositories focus on:
+📊 Data & Analytics Projects
+🎓 Student Academic Performance Analysis
 
-Real-world problem solving
-Project documentation
-Dashboards
-Applications
-Analysis
-Practical implementation
+A Power BI project based on academic data personally collected from friends, maintained in Excel and analyzed using Power BI.
 
-This separation helps keep my learning journey organized while making my portfolio projects easier to explore.
+Focus
 
-📂 Featured Areas
-📊 Data Analytics
+Data Collection • Excel • Power BI • Academic Analysis • Dashboards
 
-Working with:
+💻 Computer Store Sales Analysis
 
-Excel • SQL • Power BI • Tableau
+An Excel-based sales analysis project focused on understanding sales performance across products, brands, cities and months.
 
-Building dashboards, performing analysis, exploring datasets, and presenting insights in a meaningful way.
+Focus
 
-🐍 Python & Data Science
+Excel • Data Analysis • Pivot Tables • Dashboard
 
-Developing Python programming fundamentals and progressing toward:
+🗄️ Student Database Management & SQL Analysis
 
-Data Analysis • Machine Learning • Data Science
+A practical MySQL project working with student, course and enrollment data using relational database concepts and SQL analysis.
 
-🌐 Front-End Development
+Focus
 
-Building responsive web experiences using:
+MySQL • Relational Database • JOINs • GROUP BY • Aggregation • SQL Analysis
+
+🌐 Front-End Projects
+📚 BookhuB
+
+A student-focused web platform built around learning resources and academic tools.
+
+Tech Stack
 
 HTML • CSS • JavaScript
 
-📈 Current Focus
-┌─────────────────────────────────────┐
-│         CURRENT LEARNING            │
-├─────────────────────────────────────┤
-│ 🐍 Python                           │
-│ 🗄️ SQL                              │
-│ 📊 Power BI                         │
-│ 📉 Tableau                          │
-│ 📑 Excel                            │
-│ 🤖 Machine Learning                 │
-│ 📈 Data Analysis                    │
-└─────────────────────────────────────┘
+Live Project
 
-I'm currently focused on strengthening my Python, SQL, Data Analytics, Power BI, Tableau, and Machine Learning skills through consistent practice and project-based learning.
+🔗 https://bookhub-x.netlify.app/
 
-🛠️ My Approach
+💰 FinSnap
 
-I believe in learning through building.
+A smart expense-tracking web application focused on transactions, budgets and financial insights.
 
-Learn
-  ↓
-Practice
-  ↓
-Build
-  ↓
-Analyze
-  ↓
-Improve
-  ↓
-Repeat
+Tech Stack
 
-Instead of only learning concepts theoretically, I try to apply them through practical classwork, personal projects, dashboards, and coding exercises.
+HTML • CSS • JavaScript
 
-🌟 Portfolio
+Live Project
 
-Want to see my projects and work?
+🔗 https://finsnap-fs.netlify.app/
 
-<p align="center"> <a href="https://rehan-rk.netlify.app/"> <img src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-6C63FF?style=for-the-badge" alt="Explore Portfolio"> </a> </p>
-📫 Let's Connect
-<p align="center"> <a href="https://github.com/Rehan947"> <img src="https://img.shields.io/badge/GitHub-Rehan947-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/rehan-pathan-"> <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Pathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://rehan-rk.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-rehan--rk.netlify.app-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> </p>
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rehan947&show_icons=true&theme=tokyonight&hide_border=true" alt="Rehan's GitHub Stats"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehan947&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </p>
-💭 My Goal
+The source code is intentionally kept private. The live application is available as a portfolio showcase.
 
-Learn continuously. Build practically. Analyze intelligently. Grow consistently.
+🥤 SpiSnap
 
-I'm working toward becoming a strong Data Analyst / Data Scientist while continuing to leverage my background in Front-End Development.
+An academic performance tracking application focused on student SPI, CGPA, semester progress and backlog information.
 
-Every repository represents a step in that journey.
+Focus
 
-<p align="center">
-🚀 Thanks for visiting my GitHub profile!
+Academic Tracking • Data Handling • Responsive UI • PWA • SEO
 
-⭐ Explore my repositories • 📊 Check out my projects • 🤝 Let's connect
+Live Project
+
+🔗 https://sipsnap.netlify.app/
+
+🧠 My Learning Philosophy
+
+I believe the best way to learn technology is by building and practicing, not only by studying theory.
+
+        LEARN
+          ↓
+      UNDERSTAND
+          ↓
+        PRACTICE
+          ↓
+         BUILD
+          ↓
+        ANALYZE
+          ↓
+        DEBUG
+          ↓
+        IMPROVE
+          ↓
+        REPEAT
+
+        Every classwork file, practice program, dashboard and project represents another step in that process.
+
+🔥 Current Focus
+
+I'm currently strengthening my skills in:
+
+Area	Focus
+🐍 Python	Programming & Data Science Foundations
+🗄️ SQL	Querying & Relational Databases
+📊 Excel	Data Analysis & Reporting
+📈 Power BI	Interactive Dashboards
+📉 Tableau	Data Visualization
+🤖 Machine Learning	Analytical & Predictive Foundations
+🧠 Problem Solving	Logical & Analytical Thinking
+🌱 What I Value
+
+Technology is only one part of becoming a strong professional.
+
+I continuously work on:
+
+Curiosity • Consistency • Problem Solving • Learning by Doing • Attention to Detail
+
+One concept. One project. One improvement at a time.
+
+🌐 Explore My Work
+<div align="center">
+🚀 Want to see what I build?
+<br> <a href="https://rehan-rk.netlify.app/"> <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-6C63FF?style=for-the-badge" alt="Visit Portfolio"> </a>
+
+<br><br>
+
+<a href="https://github.com/Rehan947"> <img src="https://img.shields.io/badge/⭐%20EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"> </a> </div>
+🤝 Let's Connect
+<div align="center"> <a href="https://github.com/Rehan947"> <img src="https://img.shields.io/badge/GitHub-Rehan947-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/rehan-pathan-"> <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Pathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://rehan-rk.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-Rehan-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> </div>
+📌 Currently Building
+
+🎓 BCA — Semester 5
+        │
+        ▼
+📚 Data Scientist Training
+        │
+        ▼
+🐍 Python
+        │
+        ▼
+🗄️ SQL
+        │
+        ▼
+📊 Excel • Power BI • Tableau
+        │
+        ▼
+🤖 Machine Learning
+        │
+        ▼
+🚀 Data Analytics & Data Science
+
+<div align="center">
+💡 Build. Analyze. Learn. Repeat.
+Turning curiosity into skills, and skills into real projects.
+<br>
+
+Thanks for visiting my GitHub profile! 👋
+
+⭐ Explore the repositories • 📊 Check out the projects • 🤝 Let's connect
 
 <br>
 
-Made with ❤️ by Rehan
+<sub>Made with ❤️ by Rehan</sub>
 
-</p> 
+</div>
+
