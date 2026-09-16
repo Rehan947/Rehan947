@@ -100,56 +100,6 @@ Silver Oak University, Ahmedabad
 
 I'm currently pursuing structured Data Scientist training at IT Vedant, while strengthening my skills through classwork, practice and practical projects.
 
-My Learning Stack
-
-┌─────────────────────────────────────────────┐
-│              DATA FOUNDATION                │
-│                                             │
-│         Excel • SQL • Databases             │
-│                                             │
-├─────────────────────────────────────────────┤
-│          BUSINESS INTELLIGENCE              │
-│                                             │
-│         Power BI • Tableau                  │
-│                                             │
-├─────────────────────────────────────────────┤
-│              PROGRAMMING                    │
-│                                             │
-│              Python                         │
-│                                             │
-├─────────────────────────────────────────────┤
-│              ADVANCED PATH                  │
-│                                             │
-│       Machine Learning • Data Science       │
-└─────────────────────────────────────────────┘
-📊 How I Work With Data
-
-I enjoy taking raw information and transforming it into useful insights.
-
-RAW DATA
-    │
-    ▼
-COLLECT
-    │
-    ▼
-CLEAN & ORGANIZE
-    │
-    ▼
-ANALYZE
-    │
-    ▼
-FIND PATTERNS
-    │
-    ▼
-VISUALIZE
-    │
-    ▼
-GENERATE INSIGHTS
-    │
-    ▼
-SUPPORT BETTER DECISIONS
-
-This is why Excel, SQL, Power BI, Tableau and Python are an important part of my technical journey.
 
 🚀 Featured Work
 
@@ -281,27 +231,7 @@ One concept. One project. One improvement at a time.
 <a href="https://github.com/Rehan947"> <img src="https://img.shields.io/badge/⭐%20EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"> </a> </div>
 🤝 Let's Connect
 <div align="center"> <a href="https://github.com/Rehan947"> <img src="https://img.shields.io/badge/GitHub-Rehan947-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/rehan-pathan-"> <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Pathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://rehan-rk.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-Rehan-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> </div>
-📌 Currently Building
 
-🎓 BCA — Semester 5
-        │
-        ▼
-📚 Data Scientist Training
-        │
-        ▼
-🐍 Python
-        │
-        ▼
-🗄️ SQL
-        │
-        ▼
-📊 Excel • Power BI • Tableau
-        │
-        ▼
-🤖 Machine Learning
-        │
-        ▼
-🚀 Data Analytics & Data Science
 
 <div align="center">
 💡 Build. Analyze. Learn. Repeat.
